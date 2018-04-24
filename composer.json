@@ -1,0 +1,14 @@
+{
+    "name": "wilkinsocks/doc",
+    "description": "Reads and Writes to CSVs",
+    "version": "0.0.1",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wilkinsocks\\Doc\\": "src/"
+        }
+    }
+}
